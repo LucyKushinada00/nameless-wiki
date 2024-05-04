@@ -5,6 +5,7 @@ sidebar_position: 0
 
 Nameless AOSP officially supports the following devices:
 
+## Oneplus Devices
 - Oneplus 8 (instantnoodle)
 - Oneplus 8 Pro (instantnoodlep)
 - Oneplus 8T (kebab)
@@ -14,6 +15,8 @@ Nameless AOSP officially supports the following devices:
 - Oneplus 9RT (martini)
 - Oneplus 10 Pro (wly)
 - Oneplus 11 (salami)
+
+## Realme Devices
 - Realme GT (cupidr)
 - Realme GT2 (porsche)
 - Realme GT2 Pro (ferrarri)

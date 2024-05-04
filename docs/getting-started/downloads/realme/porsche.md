@@ -1,6 +1,6 @@
 ---
 title: Realme GT2
-sidebar_position: 11
+sidebar_position: 2
 ---
 
 ## Nameless 14 (OOS14 based)

@@ -1,6 +1,6 @@
 ---
 title: Realme GT
-sidebar_position: 10
+sidebar_position: 1
 ---
 
 ## Nameless 14 (OOS13 based)

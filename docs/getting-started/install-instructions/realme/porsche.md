@@ -1,6 +1,6 @@
 ---
-title: For Realme GT Master
-sidebar_position: 13
+title: For Realme GT 2
+sidebar_position: 2
 ---
 
 ## Prerequisites
@@ -11,8 +11,8 @@ The firmware for this device is included with the ROM.
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
-- LineageOS Recovery ([Download here](https://github.com/pjgowtham/android_device_realme_lunaa))
-- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/lunaa.md))
+- LineageOS Recovery ([Download here](https://github.com/pjgowtham/android_device_realme_porsche))
+- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/porsche.md))
 
 ## Instructions
 
