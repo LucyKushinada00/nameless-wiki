@@ -11,11 +11,16 @@ The firmware for this device is included with the ROM.
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
+- TWRP Recovery ([Download here](https://drive.google.com/file/d/1znhQelcrImoYXPZ9wVuzaD5bpv5MalfC))
 - Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/martini.md))
 
-1. Boot into recovery using `adb reboot recovery` if you're on system and `fastboot reboot recovery` if you're on fastboot or bootloader.
+## Instructions
+
+1. Boot into fastboot using `adb reboot fastboot`.
+2. Flash the TWRP Recovery using `fastboot flash --slot=all recovery recovery.img`.
+1. Reboot into recovery using `adb reboot recovery` if you're on system and `fastboot reboot recovery` if you're on fastboot or bootloader.
 :::note
-You can also boot into fastboot using the [button combination](/docs/faq.md#button-combinations)
+You can also boot into fastboot and recovery using the [button combination](/docs/faq.md#button-combinations)
 :::
 :::info
 If your device isn't detected when in fastboot download the [Google OEM Drivers](/docs/faq.md#links) and follow the instructions [here](/docs/faq.md#installing-google-usb-drivers).
