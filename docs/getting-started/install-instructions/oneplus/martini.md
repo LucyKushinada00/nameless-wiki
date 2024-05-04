@@ -12,7 +12,7 @@ The firmware for this device is included with the ROM.
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - TWRP Recovery ([Download here](https://drive.google.com/file/d/1znhQelcrImoYXPZ9wVuzaD5bpv5MalfC))
-- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/martini.md))
+- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/oneplus/martini.md))
 
 ## Instructions
 

@@ -10,9 +10,9 @@ The firmware for this device is included with the ROM.
 ::: 
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
-- Required Images: boot.img, recovery.img, vbmeta.img ([Download here](/docs/getting-started/downloads/instantnoodlep.md))
+- Required Images: boot.img, recovery.img, vbmeta.img ([Download here](/docs/getting-started/downloads/oneplus/instantnoodlep.md))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
-- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/instantnoodlep.md))
+- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/oneplus/instantnoodlep.md))
 
 ### Instructions when coming from OOS
 

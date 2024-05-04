@@ -11,7 +11,7 @@ The firmware for this device is included with the ROM.
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - Orangefox Recovery ([Download here](https://sourceforge.net/projects/oneplus-10-pro/files/orange/2024-2-21/OrangeFox-Unofficial-ferrarri.img/download))
-- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/wly.md))
+- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/oneplus/wly.md))
 
 ## Instructions
 

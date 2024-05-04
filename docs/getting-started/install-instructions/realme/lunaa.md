@@ -12,7 +12,7 @@ The firmware for this device is included with the ROM.
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - LineageOS Recovery ([Download here](https://github.com/pjgowtham/android_device_realme_lunaa))
-- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/lunaa.md))
+- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/realme/lunaa.md))
 
 ## Instructions
 

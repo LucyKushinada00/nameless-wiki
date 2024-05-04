@@ -10,9 +10,9 @@ The firmware for this device is included with the ROM.
 :::
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
-- Required Images: boot.img, dtbo.img, vendor_boot.img ([Download here](/docs/getting-started/downloads/lemonadep.md))
+- Required Images: boot.img, dtbo.img, vendor_boot.img ([Download here](/docs/getting-started/downloads/oneplus/lemonadep.md))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
-- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/lemonadep.md))
+- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/oneplus/lemonadep.md))
 
 ### Instructions when coming from OOS
 

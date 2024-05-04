@@ -10,9 +10,9 @@ For Nameless 14 builds on this device, flash the latest firmware from OOS 14.
 :::
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
-- Required Images: boot.img, recovery.img, vbmeta_boot.img ([Download here](/docs/getting-started/downloads/salami.md))
+- Required Images: boot.img, recovery.img, vbmeta_boot.img ([Download here](/docs/getting-started/downloads/oneplus/salami.md))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
-- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/salami.md))
+- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/oneplus/salami.md))
 
 ### Instructions when coming from OOS
 
