@@ -1,5 +1,5 @@
 ---
-title: OnePlus 8T
+title: Oneplus 8T
 sidebar_position: 3
 ---
 
