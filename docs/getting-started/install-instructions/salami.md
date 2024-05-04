@@ -1,18 +1,18 @@
 ---
-title: For Oneplus 8T
-sidebar_position: 3
+title: For Oneplus 11
+sidebar_position: 9
 ---
 
 ## Prerequisites
 
 :::danger
-For Nameless 14 builds on this device, flash the latest firmware from OOS 13.1.
+For Nameless 14 builds on this device, flash the latest firmware from OOS 14.
 :::
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
-- Required Images: boot.img, recovery.img, vbmeta.img ([Download here](/docs/getting-started/downloads/kebab.md))
+- Required Images: boot.img, recovery.img, vbmeta_boot.img ([Download here](/docs/getting-started/downloads/salami.md))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
-- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/kebab.md))
+- Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/salami.md))
 
 ### Instructions when coming from OOS
 
@@ -29,11 +29,8 @@ You can also boot into fastboot using the [button combination](/docs/faq.md#butt
 ```
 fastboot flash --slot=all recovery recovery.img
 fastboot flash --slot=all boot boot.img
-fastboot flash --slot=all vbmeta vbmeta.img
+fastboot flash --slot=all vbmeta_boot vbmeta_boot.img
 ``` 
-:::warning
-If you're flashing a legacy version of the rom (Nameless 13) you'll also need to flash `vbemata_system` using `fastboot flash --slot=all vbmeta_system vbmeta_sytem.img`.
-:::
 :::info
 If your device isn't detected when in fastboot download the [Google OEM Drivers](/docs/faq.md#links) and follow the instructions [here](/docs/faq.md#installing-google-usb-drivers).
 :::

@@ -5,8 +5,6 @@ sidebar_position: 5
 
 ## Nameless 14 (OOS13 based)
 
-
-
 ### Latest Build
 - [Nameless-AOSP_lemonadep-14.0-20240421-1216-Official](https://sourceforge.net/projects/nameless-aosp/files/lemonadep/Nameless-AOSP_lemonadep-14.0-20240421-1216-Official.zip/download)
 
