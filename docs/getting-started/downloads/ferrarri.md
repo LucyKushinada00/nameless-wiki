@@ -1,0 +1,9 @@
+---
+title: Realme GT2 Pro
+sidebar_position: 12
+---
+
+## Nameless 14 (OOS13 based)
+
+### Latest Build
+- [Nameless-AOSP_ferrarri-14.0-20240427-0218-Official.zip](https://sourceforge.net/projects/nameless-aosp/files/ferrarri/Nameless-AOSP_ferrarri-14.0-20240427-0218-Official.zip/download)
