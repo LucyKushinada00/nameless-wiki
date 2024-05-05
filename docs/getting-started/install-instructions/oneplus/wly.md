@@ -12,21 +12,23 @@ The firmware for this device is included with the ROM.
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - Orangefox Recovery ([Download here](https://sourceforge.net/projects/oneplus-10-pro/files/orange/2024-2-21/OrangeFox-Unofficial-ferrarri.img/download))
 - Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/oneplus/wly.md))
+- Empty Super Image ([Download here](https://mirrorbits.lineageos.org/full/lemonadep/20240429/super_empty.img))
 
 ## Instructions
 
 1. Boot into fastboot using `adb reboot fastboot`.
 2. Flash the Orangefox Recovery using `fastboot flash --slot=all recovery recovery.img`.
-1. Reboot into recovery using `adb reboot recovery` if you're on system and `fastboot reboot recovery` if you're on fastboot or bootloader.
+3. Reboot into recovery using `adb reboot recovery` if you're on system and `fastboot reboot recovery` if you're on fastboot or bootloader.
 :::note
 You can also boot into fastboot and recovery using the [button combination](/docs/faq.md#button-combinations)
 :::
 :::info
 If your device isn't detected when in fastboot download the [Google OEM Drivers](/docs/faq.md#links) and follow the instructions [here](/docs/faq.md#installing-google-usb-drivers).
 :::
-2. Sideload nameless using `adb sideload Nameless-AOSP_xxx.zip`.
+4. Sideload nameless using `adb sideload Nameless-AOSP_xxx.zip`.
 :::info
 Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
 :::
-3. Click back arrow, then click "Factory reset" -> "Format data/factory reset" -> "Format data"
-4. After the format is completed, click the back arrow and then click "Reboot to system".
+5. Click back arrow, then click "Advanced" -> "Reboot to bootloader".
+6. Format your device from fastboot using `fastboot -w` and flash the empty super partition to wipe super using `fastboot wipe-super super_empty.img`.
+7. After the format is completed, reboot to system.

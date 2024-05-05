@@ -13,6 +13,7 @@ For Nameless 14 builds on this device, flash the latest firmware from OOS 13.1.
 - Required Images: boot.img, recovery.img, vbmeta.img ([Download here](/docs/getting-started/downloads/oneplus/lemonades.md))
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/oneplus/lemonades.md))
+- Empty Super Image ([Download here](https://mirrorbits.lineageos.org/full/lemonadep/20240429/super_empty.img))
 
 ### Instructions when coming from OOS
 
@@ -42,8 +43,9 @@ If your device isn't detected when in fastboot download the [Google OEM Drivers]
 :::info
 Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
 :::
-7. Click back arrow, then click "Factory reset" -> "Format data/factory reset" -> "Format data"
-8. After the format is completed, click the back arrow and then click "Reboot to system".
+7. Click back arrow, then click "Advanced" -> "Reboot to bootloader".
+8. Format your device from fastboot using `fastboot -w` and flash the empty super partition to wipe super using `fastboot wipe-super super_empty.img`.
+9. After the format is completed, reboot to system.
 
 ### Instructions when coming from a custom ROM
 
@@ -56,5 +58,6 @@ If the custom ROM you're on isn't based on the same firmware version [flash the 
 :::info
 Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
 :::
-3. Click back arrow, then click "Factory reset" -> "Format data/factory reset" -> "Format data"
-4. After the format is completed, click the back arrow and then click "Reboot to system".
+3. Click back arrow, then click "Advanced" -> "Reboot to bootloader".
+4. Format your device from fastboot using `fastboot -w` and flash the empty super partition to wipe super using `fastboot wipe-super super_empty.img`.
+5. After the format is completed, reboot to system.
