@@ -12,7 +12,7 @@ sidebar_position: 1
 ### Previous Build
 - [Nameless-AOSP_instantnoodle-14.0-20240301-0250-Official](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-14.0-20240301-0250-Official.zip/download)
 
-### Links
+### Images
 - [boot.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_14/boot.img/download)
 - [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_14/recovery.img/download)
 - [vbmeta.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_14/vbmeta.img/download)
@@ -26,7 +26,7 @@ These are the legacy builds for the device and support won't be provided for the
 ### Latest Build
 - [Nameless-AOSP_instantnoodle-13.0-20231121-0718-Official](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-13.0-20231121-0718-Official.zip/download)
 
-### Links
+### Images
 - [boot.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/boot.img/download)
 - [vbmeta.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/vbmeta.img/download)
 - [vbmeta_system.img](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/imgs_13/vbmeta_system.img/download)
