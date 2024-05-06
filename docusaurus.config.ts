@@ -1,5 +1,6 @@
 import type * as Preset from '@docusaurus/preset-classic';
 import type { Config } from '@docusaurus/types';
+import 'dotenv/config';
 import { themes as prismThemes } from 'prism-react-renderer';
 
 const config: Config = {
@@ -47,6 +48,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    algolia: {
+      appId: process.env.ALGOLIA_APP_ID,
+      apiKey: process.env.ALGOLIA_API_KEY,
+      indexName: 'nameless-wiki',
+      contextualSearch: true,
+    },
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
