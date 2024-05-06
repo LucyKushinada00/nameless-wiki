@@ -48,6 +48,9 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    announcementBar: {
+      content: 'The search functionality is currently broken because we\'re waiting on the next Algolia content crawl. Sorry for the inconvenience',
+    },
     algolia: {
       appId: process.env.ALGOLIA_APP_ID,
       apiKey: process.env.ALGOLIA_API_KEY,

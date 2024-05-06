@@ -5,6 +5,8 @@ sidebar_position: 3
 
 If you have a question, please read or search this page before asking. It saves time for everyone — especially you.
 
+[You can also search for the answer to your question](/search)
+
 ## Links
 
 <details>
