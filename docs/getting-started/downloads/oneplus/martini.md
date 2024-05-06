@@ -1,5 +1,5 @@
 ---
-title: Oneplus 9RT
+title: OnePlus 9RT
 sidebar_position: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: For Oneplus 11
+title: OnePlus 11
 sidebar_position: 9
 ---
 

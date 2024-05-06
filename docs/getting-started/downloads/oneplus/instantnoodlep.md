@@ -1,5 +1,5 @@
 ---
-title: Oneplus 8 Pro
+title: OnePlus 8 Pro
 sidebar_position: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: For Oneplus 10 Pro
+title: OnePlus 10 Pro
 sidebar_position: 8
 ---
 

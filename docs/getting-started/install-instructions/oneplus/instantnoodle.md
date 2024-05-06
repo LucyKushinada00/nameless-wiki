@@ -1,5 +1,5 @@
 ---
-title: For Oneplus 8
+title: OnePlus 8
 sidebar_position: 1
 ---
 

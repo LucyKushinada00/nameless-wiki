@@ -1,5 +1,5 @@
 ---
-title: Oneplus 9 Pro
+title: OnePlus 9 Pro
 sidebar_position: 5
 ---
 
