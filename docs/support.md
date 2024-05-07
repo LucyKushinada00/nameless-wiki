@@ -7,7 +7,6 @@ Need a hand with Nameless ROM? You've come to the right place! This page will po
 
 ## Important Links:
 - [**Telegram Group**](https://t.me/nameless_ophub): Connect with fellow Nameless users and developers. Share experiences, ask questions, and get real-time support in the community support  group.
-- [**XDA Developers Page**](https://xdaforums.com/m/chandu-dyavanapelli.9830048/): The official XDA Developers page for Nameless ROM is another valuable resource. Here, you'll find download links for the latest ROM versions, discussions with developers, and user-created guides.
 
 ## Additional Tips:
 - Before seeking help, it's always a good idea to search the internet for solutions to your problem. You might find helpful information from other users who faced similar issues.

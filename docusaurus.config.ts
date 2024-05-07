@@ -75,11 +75,6 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
-        {
-          href: 'https://forum.xda-developers.com/t/rom-official-oos-cam-oneplus-8t-9r-12-1-0_r11-nameless-aosp-2022-07-23.4403295/',
-          label: 'XDA',
-          position: 'right',
-        },
       ],
     },
     prism: {
