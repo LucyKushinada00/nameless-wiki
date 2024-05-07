@@ -51,6 +51,9 @@ const config: Config = {
     announcementBar: {
       content: 'The search functionality is currently broken because we\'re waiting on the next Algolia content crawl. Sorry for the inconvenience',
     },
+    footer: {
+      copyright: 'Created with ❤️ by Lucy Kushinada and the Nameless Team',
+    },
     algolia: {
       appId: process.env.ALGOLIA_APP_ID,
       apiKey: process.env.ALGOLIA_API_KEY,
