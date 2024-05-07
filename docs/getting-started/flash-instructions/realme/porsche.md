@@ -1,5 +1,5 @@
 ---
-title: For Realme GT 2
+title: Realme GT 2
 sidebar_position: 2
 ---
 

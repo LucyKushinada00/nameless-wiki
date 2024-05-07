@@ -1,5 +1,5 @@
 ---
-title: For Realme GT2 Pro
+title: Realme GT2 Pro
 sidebar_position: 3
 ---
 

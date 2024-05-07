@@ -1,5 +1,5 @@
 ---
-title: For Realme GT Master
+title: Realme GT Master
 sidebar_position: 4
 ---
 
