@@ -135,6 +135,9 @@ Every nameless version works on a particular firmware version so it's important 
 In OOS12 the local update options is disabled by default. You can enable it from developer settings or by using [local update apk](#links).
 :::
     2. If you're on a custom recovery (not stock) you can flash [Wishmasterflo's](https://github.com/Wishmasterflo) [Firmware Flasher](https://github.com/Wishmasterflo/Firmware_flasher) which would automatically flash the firmware to both slots while also ensuring RAM compatibility in the cases where it's required.
+:::note
+Download the OOS factory images: [OnePlus 8](https://forum.xda-developers.com/t/oneplus-8-rom-ota-oxygen-os-repo-of-oxygen-os-builds.4084233/), [OnePlus 8T](https://forum.xda-developers.com/t/oneplus-8t-rom-ota-oxygen-os-repo-of-oxygen-os-builds.4193183/), [OnePlus 8 Pro](https://forum.xda-developers.com/t/oneplus-8-pro-rom-ota-oxygen-os-repo-of-oxygen-os-builds.4084315/), [OnePlus 9](https://forum.xda-developers.com/t/oneplus-9-rom-ota-oxygen-os-repo-of-oxygen-os-builds.4254579/), [OnePlus 9 Pro](https://forum.xda-developers.com/t/oneplus-9-pro-rom-ota-oxygen-os-repo-of-oxygen-os-builds.4254587/), [OnePlus 9R](https://forum.xda-developers.com/t/oneplus-9r-rom-ota-oxygen-os-repo-of-oxygen-os-builds.4262715/), [OnePlus Nord](https://forum.xda-developers.com/t/oneplus-nord-rom-ota-oxygen-os-repo-of-oxygen-os-builds.4138085/)
+:::
   </div>
 </details>
 
