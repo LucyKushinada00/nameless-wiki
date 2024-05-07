@@ -49,7 +49,7 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     announcementBar: {
-      content: 'The search functionality is currently broken because we\'re waiting on the next Algolia content crawl. Sorry for the inconvenience',
+      content: 'The search functionality is now fixed. Everything should be working as expected. If you encounter any issues, please report them on the GitHub repository. Thank you! 🎉',
     },
     footer: {
       copyright: 'Created with ❤️ by Lucy Kushinada and the Nameless Team',
@@ -58,7 +58,7 @@ const config: Config = {
       appId: process.env.ALGOLIA_APP_ID,
       apiKey: process.env.ALGOLIA_API_KEY,
       indexName: 'nameless-wiki',
-      contextualSearch: true,
+      contextualSearch: false,
     },
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
