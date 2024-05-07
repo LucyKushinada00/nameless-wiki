@@ -22,4 +22,4 @@ Nameless AOSP officially supports the following devices:
 - Realme GT2 Pro (ferrarri)
 - Realme GT Master (lunaa)
 
-If your device is listed, great! You can proceed to the [installation section](/category/install) for the instructions for your device.
+If your device is listed, great! You can proceed to the [installation section](/category/flash-instructions) for the instructions for your device.

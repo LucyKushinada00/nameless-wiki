@@ -66,7 +66,7 @@ const config: Config = {
       items: [
         { to: '/screenshots', label: 'Screenshots', position: 'left' },
         { to: '/faq', label: 'FAQ', position: 'left' },
-        { to: '/category/install', label: 'Install', position: 'left' },
+        { to: '/category/flash-instructions', label: 'Install', position: 'left' },
         {
           href: 'https://github.com/Nameless-AOSP',
           label: 'GitHub',
