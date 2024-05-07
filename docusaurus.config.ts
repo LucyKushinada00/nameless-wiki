@@ -49,7 +49,7 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     announcementBar: {
-      content: 'The search functionality is now fixed. Everything should be working as expected. If you encounter any issues, please report them on the GitHub repository. Thank you! 🎉',
+      content: 'The search functionality is now fixed. Everything should be working as expected. If you encounter any issues, please report them on the Telegram group. Thank you! 🎉',
     },
     footer: {
       copyright: 'Created with ❤️ by Lucy Kushinada and the Nameless Team',
