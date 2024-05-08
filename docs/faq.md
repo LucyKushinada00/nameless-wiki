@@ -20,6 +20,31 @@ If you have a question, please read or search this page before asking. It saves 
   </div>
 </details>
 
+## Backing up persist
+
+:::warning
+In order to make sure this process works correctly it's important to confirm whether the persist partition is currently valid. If your sensors (Proximity, Light etc.) then continue following the instructions otherwise MSM back to your device first ([Instructions](#how-to-use-msm-tool))
+:::
+
+<details>
+  <summary>Backing up persist</summary>
+  <div>
+    :::note
+  Before continuing make sure the following requirements are met:
+    - [Google USB Drivers](#links) are installed.
+    - [Platform Tools](#links) are properly installed.
+    - Developer Options and USB Debugging are enabled on your device. ([Instrustions](#enabling-developer-options))
+    - [MSM Tool](#links) downloaded and extracted.
+  :::
+  1. Launch `MsmDownloadTool V4.0.exe` and select `Others` as the User type.
+  2. Click Next and then press `F8` to open the Firehose ReadBack.
+  3. Select `persist` partition, enter `oneplus` as the password and press OK.
+  4. Click the `Read Back` button from the main MSM window.
+  5. [Reboot to EDL](#how-to-enter-edl-mode).
+  6. Once the readback is complete, find your now backed up persist.img at the root of your system drive. (C: for example).
+  </div>
+</details>
+
 ## Enabling Developer Options
 
 <details>
@@ -257,5 +282,28 @@ Download the OOS factory images: [OnePlus 8](https://forum.-developers.com/t/one
   - Make sure [Platform Tools](#links) is the latest version (Do not use Minimal ADB and Fastboot.).
   - Make sure that the files you are going to flash are in the same folder with platform-tools.
   - If there are any spaces in your path to the file you're trying to flash then encapsulate them with double-inverted commas (For ex. `adb sideload "C:/Nameless AOSP/nameless.zip"`) and drag and drop the file between the inverted commas instead of manually typing in the path to avoid mistakes.
+  </div>
+</details>
+
+<details>
+  <summary>Proximity and other sensors not working</summary>
+  <div>
+  :::warning
+  For this process you'll need to have previously backed up your persist partition. **Please note that the persist partition contains calibration data for your device so flashing someone else's backup might make things worse.**
+  :::
+  :::note
+  Before trying to unlock your bootloader make sure the following requirements are met:
+    - [Google USB Drivers](#links) are installed.
+    - [Platform Tools](#links) are properly installed.
+    - Developer Options and USB Debugging are enabled on your device. ([Instrustions](#enabling-developer-options))
+  :::
+  - Open CMD and `cd` into the directory with the files. **(DO NOT USE POWERSHELL!)**
+  - Reboot your device into fastboot with `adb reboot fastboot` if you're in system or `fastboot reboot fastboot` if you're in the bootloader or recovery.
+  - Reboot into fastbootd with `fastboot reboot fastboot` while the device is in fastboot.
+  :::note
+  You can also boot into fastboot using the [button combination](/docs/faq.md#button-combinations)
+  :::
+  - Flash the persist partition using `fastboot flash persist persist.img`.
+  - Reboot to system.
   </div>
 </details>
