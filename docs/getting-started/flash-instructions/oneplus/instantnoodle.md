@@ -24,12 +24,12 @@ You can also boot into fastboot using the [button combination](/docs/faq.md#butt
 :::
 3. Verify your device is detected by running `fastboot devices` on CMD and flash the downloaded images using the following commands:
 ```
-fastboot flash --slot=all recovery recovery.img
-fastboot flash --slot=all boot boot.img
-fastboot flash --slot=all vbmeta vbmeta.img
+fastboot flash recovery recovery.img
+fastboot flash boot boot.img
+fastboot flash vbmeta vbmeta.img
 ``` 
 :::warning
-If you're flashing a legacy version of the rom (Nameless 13) you'll also need to flash `vbemata_system` using `fastboot flash --slot=all vbmeta_system vbmeta_sytem.img`.
+If you're flashing a legacy version of the rom (Nameless 13) you'll also need to flash `vbemata_system` using `fastboot flash vbmeta_system vbmeta_sytem.img`.
 :::
 :::info
 If your device isn't detected when in fastboot download the [Google OEM Drivers](/docs/faq.md#links) and follow the instructions [here](/docs/faq.md#installing-google-usb-drivers).

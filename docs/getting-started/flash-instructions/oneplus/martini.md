@@ -18,7 +18,7 @@ The firmware for this device is included with the ROM.
 ## Instructions
 
 1. Boot into fastboot using `adb reboot fastboot`.
-2. Flash the TWRP Recovery using `fastboot flash --slot=all recovery recovery.img`.
+2. Flash the TWRP Recovery using `fastboot flash recovery recovery.img`.
 3. Reboot into recovery using `adb reboot recovery` if you're on system and `fastboot reboot recovery` if you're on fastboot or bootloader.
 :::note
 You can also boot into fastboot and recovery using the [button combination](/docs/faq.md#button-combinations)
