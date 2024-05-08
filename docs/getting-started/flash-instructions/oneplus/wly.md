@@ -12,7 +12,6 @@ The firmware for this device is included with the ROM.
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - Orangefox Recovery ([Download here](https://sourceforge.net/projects/oneplus-10-pro/files/orange/2024-2-21/OrangeFox-Unofficial-ferrarri.img/download))
 - Nameless AOSP ROM Image ([Download here](/docs/getting-started/downloads/oneplus/wly.md))
-- Empty Super Image ([Download here](https://mirrorbits.lineageos.org/full/lemonadep/20240429/super_empty.img))
 
 ## Instructions
 
@@ -29,6 +28,5 @@ If your device isn't detected when in fastboot download the [Google OEM Drivers]
 :::info
 Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
 :::
-5. Click back arrow, then click "Advanced" -> "Reboot to bootloader".
-6. Format your device from fastboot using `fastboot -w` and flash the empty super partition to wipe super using `fastboot wipe-super super_empty.img`.
-7. After the format is completed, reboot to system.
+5. Click back arrow, then click "Factory reset" -> "Format data/factory reset" -> "Format data"
+6. After the format is completed, click the back arrow and then click "Reboot to system".
