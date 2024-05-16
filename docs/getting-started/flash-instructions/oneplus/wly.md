@@ -4,8 +4,8 @@ sidebar_position: 8
 ---
 
 ## Prerequisites
-:::info
-The firmware for this device is included with the ROM.
+:::danger
+For Nameless 14 builds on this device, flash the latest firmware from OOS 14.
 :::
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
