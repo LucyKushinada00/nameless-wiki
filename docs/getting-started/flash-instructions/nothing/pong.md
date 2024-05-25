@@ -17,26 +17,26 @@ The firmware for this device is included with the ROM.
 ### Instructions when coming from NOS
 
 1. Open CMD and `cd` into the directory with the files. **(DO NOT USE POWERSHELL!)**
-2. Reboot your device into fastboot with `adb reboot fastboot` if you're in system or `fastboot reboot fastboot` if you're in the bootloader or recovery.
+2. Reboot your device into recovery with `adb reboot recovery` and factory reset it.
+3. Reboot into fastboot with `fastboot reboot fastboot`.
 :::note
 You can also boot into fastboot using the [button combination](/docs/faq.md#button-combinations)
 :::
-3. Verify your device is detected by running `fastboot devices` on CMD and flash the downloaded images using the following commands:
+4. Verify your device is detected by running `fastboot devices` on CMD and flash the downloaded images using the following commands:
 ```
 fastboot flash boot boot.img
 fastboot flash recovery recovery.img
 fastboot flash vendor_boot vendor_boot.img
-``` 
+```
 :::info
 If your device isn't detected when in fastboot download the [Google OEM Drivers](/docs/faq.md#links) and follow the instructions [here](/docs/faq.md#installing-google-usb-drivers).
 :::
-5. Reboot your phone into recovery mode, click "Install Update" -> "ADB Sideload".
+5. Boot back into recovery mode by using `fastboot reboot recovery`, then click "Install Update" -> "ADB Sideload".
 6. Sideload nameless using `adb sideload Nameless-AOSP_xxx.zip`.
 :::info
 Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
 :::
-7. Click back arrow, then click "Factory reset" -> "Format data/factory reset" -> "Format data"
-8. After the format is completed, click the back arrow and then click "Reboot to system".
+7. After the flash is completed, click the back arrow and then click "Reboot to system".
 
 ### Instructions when coming from a custom ROM
 
