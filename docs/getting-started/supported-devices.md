@@ -23,6 +23,6 @@ Nameless AOSP officially supports the following devices:
 - Realme GT Master (lunaa)
 
 ## Nothing Devices
-- Nothing Phone 2 (pong)
+- Nothing Phone (2) (pong)
 
 If your device is listed, great! You can proceed to the [installation section](/category/flash-instructions) for the instructions for your device.
