@@ -5,6 +5,9 @@ sidebar_position: 1
 
 ## Prerequisites
 
+:::info
+The firmware for this device is included with the ROM.
+:::
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
 - Required Images: boot.img, recovery.img, vendor_boot.img ([Download here](/docs/getting-started/downloads/nothing/pong.md))
