@@ -6,12 +6,13 @@ sidebar_position: 1
 ## Nameless 14
 
 ### Latest Build
-- [Nameless-AOSP_Pong-14.0-20240526-1327-Official](https://sourceforge.net/projects/nameless-aosp/files/Pong/Nameless-AOSP_Pong-14.0-20240526-1327-Official.zip/download)
+- [Nameless-AOSP_Pong-14.0-20240526-1327-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/Pong/Nameless-AOSP_Pong-14.0-20240526-1327-Official.zip/download)
+- [Nameless-AOSP_Pong-14.0-20240526-1327-Official __(Google Drive)__](https://drive.google.com/file/d/1y_S3k3IfsHAAM5OUXysI4BwZneKQxC_1/view?usp=drive_link)
 
 ### Images
-- [boot.img](https://sourceforge.net/projects/nameless-aosp/files/Pong/images/26-05-2024/boot.img/download)
-- [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/Pong/images/26-05-2024/recovery.img/download)
-- [vendor_boot.img](https://sourceforge.net/projects/nameless-aosp/files/Pong/images/26-05-2024/recovery.img/download)
+- [boot.img](https://sourceforge.net/projects/nameless-aosp/files/Pong/images/26-05-2024/boot.img/download) ([Mirror](https://drive.google.com/file/d/1YeOhI5DGLFJWCLy2UVEDirRln7hHb8sb/view?usp=drive_link))
+- [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/Pong/images/26-05-2024/recovery.img/download) ([Mirror](https://drive.google.com/file/d/1a1GYY3_DcylWR9s5y6lZjlh_C_OqgUGT/view?usp=drive_link))
+- [vendor_boot.img](https://sourceforge.net/projects/nameless-aosp/files/Pong/images/26-05-2024/vendor_boot.img/download) ([Mirror](https://drive.google.com/file/d/1Fqq838soHPeJd1thn_JBtRv1V2rl6-e1/view?usp=drive_link))
 
 ## Nameless 13
 
