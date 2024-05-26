@@ -21,6 +21,7 @@ Nameless AOSP offers many improvements on the stock Android experience:
 - Privacy and security
 - Customization
 - Default experience
+- Improved haptics
 
 It also keeps what you’re used to on stock:
 
