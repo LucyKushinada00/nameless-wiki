@@ -34,7 +34,8 @@ If your device isn't detected when in fastboot download the [Google OEM Drivers]
 5. Boot back into recovery mode by using `fastboot reboot recovery`, then click "Install Update" -> "ADB Sideload".
 6. Sideload nameless using `adb sideload Nameless-AOSP_xxx.zip`.
 :::info
-Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
+1. Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
+2. If you get the error `Error Applying update: 7 (ErrorCode: kInstallDeviceOpenError)` while flashing the ROM, flash the [super-empty.img](https://drive.google.com/file/d/1oJrEb2fxYQ46Tl86Z957wll5QcClzq1b/view) from fastboot mode using `fastboot wipe-super super_empty.img` before sideloading the ROM again.
 :::
 7. After the flash is completed, click the back arrow and then click "Reboot to system".
 
