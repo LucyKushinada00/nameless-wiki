@@ -24,7 +24,7 @@ You can also boot into fastboot using the [button combination](/docs/faq.md#butt
 3. Verify your device is detected by running `fastboot devices` on CMD and flash the downloaded images using the following commands:
 ```
 fastboot flash boot boot.img
-fastboot flash dtbo dtbo.img
+fastboot flash recovery recovery.img
 fastboot flash vendor_boot vendor_boot.img
 ``` 
 :::info
