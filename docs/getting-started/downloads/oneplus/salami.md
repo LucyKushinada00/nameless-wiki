@@ -6,11 +6,11 @@ sidebar_position: 9
 ## Nameless 14 (OOS14 based)
 
 ### Latest Build
+- [Nameless-AOSP_salami-14.0-20240818-0644-Official](https://sourceforge.net/projects/nameless-aosp/files/salami/Nameless-AOSP_salami-14.0-20240818-0644-Official.zip/download)
 
-- [Nameless-AOSP_salami-14.0-20240709-1615-Official](https://sourceforge.net/projects/nameless-aosp/files/salami/Nameless-AOSP_salami-14.0-20240709-1615-Official.zip/download)
 
 ### Previous Build
-- [Nameless-AOSP_salami-14.0-20240229-1317-Official](https://sourceforge.net/projects/nameless-aosp/files/salami/Nameless-AOSP_salami-14.0-20240229-1317-Official.zip/download)
+- [Nameless-AOSP_salami-14.0-20240709-1615-Official](https://sourceforge.net/projects/nameless-aosp/files/salami/Nameless-AOSP_salami-14.0-20240709-1615-Official.zip/download)
 
 ### Images
 - [boot.img](https://sourceforge.net/projects/nameless-aosp/files/salami/images/29-02-2024/boot.img/download)
