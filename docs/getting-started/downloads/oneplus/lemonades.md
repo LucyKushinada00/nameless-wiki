@@ -3,7 +3,22 @@ title: OnePlus 9R
 sidebar_position: 6
 ---
 
+## Nameless 14 (OOS14 based)
+
+### Latest Build
+- [Nameless-AOSP_lemonades-14.0-20240824-0942-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/lemonades/Nameless-AOSP_lemonades-14.0-20240824-0942-Official.zip/download)
+- [Nameless-AOSP_lemonades-14.0-20240824-0942-Official __(Google Drive)__](https://drive.google.com/file/d/1AAabG-7Hd0ZBo8SM1aAahKc26tJxla8x/view)
+
+### Images
+- [boot.img](https://drive.google.com/file/d/15NPHN67ZeISbqCeG17cnOZp9RlHavUJn/view)
+- [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/lemonades/imgs_14/recovery.img/download)
+- [vbmeta.img](https://sourceforge.net/projects/nameless-aosp/files/lemonades/imgs_14/vbmeta.img/download)
+
 ## Nameless 14 (OOS13 based)
+
+:::warning
+These are the legacy builds for the device and support won't be provided for the same. Flash at your own risk!
+:::
 
 ### Latest Build
 - [Nameless-AOSP_lemonades-14.0-20240624-0922-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/lemonades/Nameless-AOSP_lemonades-14.0-20240624-0922-Official.zip/download)
@@ -17,7 +32,7 @@ sidebar_position: 6
 - [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/lemonades/imgs_14/recovery.img/download)
 - [vbmeta.img](https://sourceforge.net/projects/nameless-aosp/files/lemonades/imgs_14/vbmeta.img/download)
 
-## Nameless 13 (OOS13 based)
+<!-- ## Nameless 13 (OOS13 based)
 
 :::warning
 These are the legacy builds for the device and support won't be provided for the same. Flash at your own risk!
@@ -30,4 +45,4 @@ These are the legacy builds for the device and support won't be provided for the
 - [boot.img](https://sourceforge.net/projects/nameless-aosp/files/kebab/imgs_13/boot.img/download)
 - [vbmeta.img](https://sourceforge.net/projects/nameless-aosp/files/kebab/imgs_13/vbmeta.img/download)
 - [vbmeta_system.img](https://sourceforge.net/projects/nameless-aosp/files/kebab/imgs_13/vbmeta_system.img/download)
-- [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/kebab/imgs_13/recovery.img/download)
+- [recovery.img](https://sourceforge.net/projects/nameless-aosp/files/kebab/imgs_13/recovery.img/download) -->

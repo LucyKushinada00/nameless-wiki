@@ -6,7 +6,7 @@ sidebar_position: 6
 ## Prerequisites
 
 :::danger
-For Nameless 14 builds on this device, flash the latest firmware from OOS 13.1. [Instructions](/docs/faq.md#ab-partitions-explained)
+For Nameless 14 builds on this device, flash the latest firmware from OOS 14. For legacy builds, flash the latest firmware from OOS 13.1.[Instructions](/docs/faq.md#ab-partitions-explained)
 :::
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
