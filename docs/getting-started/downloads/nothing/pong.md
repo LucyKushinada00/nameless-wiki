@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ## Nameless 14
 
-## Latest Build
+### Latest Build
 
 :::info
 Final Android 14 release and no OTA update for this update. Please update manually in recovery mode
