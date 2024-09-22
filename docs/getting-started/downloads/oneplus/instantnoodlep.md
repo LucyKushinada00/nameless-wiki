@@ -8,7 +8,7 @@ sidebar_position: 2
 ### Latest Build
 - [Nameless-AOSP_instantnoodlep-14.0-20240921-1814-Official](https://sourceforge.net/projects/nameless-aosp/files/instantnoodlep/Nameless-AOSP_instantnoodlep-14.0-20240921-1814-Official.zip/download)
 
-### Latest Build
+### Previous Build
 - [Nameless-AOSP_instantnoodlep-14.0-20240824-1116-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/instantnoodlep/Nameless-AOSP_instantnoodlep-14.0-20240824-1116-Official.zip/download)
 
 ### Images
