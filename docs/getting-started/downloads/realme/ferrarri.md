@@ -3,7 +3,7 @@ title: Realme GT2 Pro
 sidebar_position: 3
 ---
 
-## Nameless 14 (OOS13 based)
+## Nameless 14 (Realme UI 5 based)
 
 ### Latest Build
 - [Nameless-AOSP_ferrarri-14.0-20240723-1530-Official](https://sourceforge.net/projects/nameless-aosp/files/ferrarri/Nameless-AOSP_ferrarri-14.0-20240723-1530-Official.zip/download)

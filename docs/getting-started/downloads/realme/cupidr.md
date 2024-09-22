@@ -3,7 +3,7 @@ title: Realme GT
 sidebar_position: 1
 ---
 
-## Nameless 14 (OOS13 based)
+## Nameless 14 (Realme UI 5 based)
 
 ### Latest Build
 - [Nameless-AOSP_cupidr-14.0-20240720-0734-Official](https://sourceforge.net/projects/nameless-aosp/files/cupidr/Nameless-AOSP_cupidr-14.0-20240720-0734-Official.zip/download)
