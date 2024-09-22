@@ -6,6 +6,9 @@ sidebar_position: 3
 ## Nameless 14 (OOS14 based)
 
 ### Latest Build
+:::danger
+This build is unsigned so it'll not pass integrity by default. A hotfix would be released soon fixing this.
+:::
 - [Nameless-AOSP_kebab-14.0-20240921-1621-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/kebab/Nameless-AOSP_kebab-14.0-20240921-1621-Official.zip/download)
 - [Nameless-AOSP_kebab-14.0-20240921-1621-Official __(PixelDrain)__](https://pixeldrain.com/u/uGs5cwS2)
 
