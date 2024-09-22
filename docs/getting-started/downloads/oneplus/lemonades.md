@@ -6,7 +6,8 @@ sidebar_position: 6
 ## Nameless 14 (OOS14 based)
 
 ### Latest Build
-- [Nameless-AOSP_lemonades-14.0-20240921-1727-Official](https://sourceforge.net/projects/nameless-aosp/files/lemonades/Nameless-AOSP_lemonades-14.0-20240921-1727-Official.zip/download)
+- [Nameless-AOSP_lemonades-14.0-20240921-1727-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/lemonades/Nameless-AOSP_lemonades-14.0-20240921-1727-Official.zip/download)
+- [Nameless-AOSP_lemonades-14.0-20240921-1727-Official __(PixelDrain)__](https://pixeldrain.com/u/wJLoJrUd)
 
 ### Previous Build
 - [Nameless-AOSP_lemonades-14.0-20240824-0942-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/lemonades/Nameless-AOSP_lemonades-14.0-20240824-0942-Official.zip/download)

@@ -6,7 +6,8 @@ sidebar_position: 1
 ## Nameless 14 (OOS13.1 based)
 
 ### Latest Build
-- [Nameless-AOSP_instantnoodle-14.0-20240921-1750-Official](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-14.0-20240921-1750-Official.zip/download)
+- [Nameless-AOSP_instantnoodle-14.0-20240921-1750-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-14.0-20240921-1750-Official.zip/download)
+- [Nameless-AOSP_instantnoodle-14.0-20240921-1750-Official __(PixelDrain)__](https://pixeldrain.com/u/K4kcjCdv)
 
 ### Previous Build
 - [Nameless-AOSP_instantnoodle-14.0-20240824-1041-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/instantnoodle/Nameless-AOSP_instantnoodle-14.0-20240824-1041-Official.zip/download)
