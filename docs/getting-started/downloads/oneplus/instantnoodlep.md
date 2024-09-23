@@ -6,11 +6,8 @@ sidebar_position: 2
 ## Nameless 14 (OOS13.1 based)
 
 ### Latest Build
-:::danger
-This build is unsigned so it'll not pass integrity by default. A hotfix would be released soon fixing this.
-:::
-- [Nameless-AOSP_instantnoodlep-14.0-20240921-1814-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/instantnoodlep/Nameless-AOSP_instantnoodlep-14.0-20240921-1814-Official.zip/download)
-- [Nameless-AOSP_instantnoodlep-14.0-20240921-1814-Official __(PixelDrain)__](https://pixeldrain.com/u/rd3oWfg2)
+- [Nameless-AOSP_instantnoodlep-14.0-20240922-2207-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/instantnoodlep/Nameless-AOSP_instantnoodlep-14.0-20240922-2207-Official.zip/download)
+- [Nameless-AOSP_instantnoodlep-14.0-20240922-2207-Official __(PixelDrain)__](https://pixeldrain.com/u/9RNNo79B)
 
 ### Previous Build
 - [Nameless-AOSP_instantnoodlep-14.0-20240824-1116-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/instantnoodlep/Nameless-AOSP_instantnoodlep-14.0-20240824-1116-Official.zip/download)
