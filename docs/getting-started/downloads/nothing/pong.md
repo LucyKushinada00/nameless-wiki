@@ -5,13 +5,17 @@ sidebar_position: 1
 
 ## Nameless 14
 
-## Latest Build
+### Latest Build
+
+:::info
+Final Android 14 release and no OTA update for this update. Please update manually in recovery mode
+:::
+- [Nameless-AOSP-14-20240914-Pong-Official](https://sourceforge.net/projects/nameless-aosp/files/Pong/Nameless-AOSP-14-20240914-Pong-Official.zip/download)
+
+### Previous Build
 - [Nameless-AOSP_Pong-14.0-20240703-1121-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-aosp/files/Pong/Nameless-AOSP_Pong-14.0-20240703-1121-Official.zip/download)
 - [Nameless-AOSP_Pong-14.0-20240703-1121-Official __(Mirror 1)__](https://drive.google.com/file/d/1UXUIHVaGU7WGVH9R8p7miuBOV6unWyM3/view)
 - [Nameless-AOSP_Pong-14.0-20240703-1121-Official __(Mirror 2)__](https://drive.google.com/file/d/1bkzSZJUDRKyZXbhkbxg2bgEi3vwKsIJ3/view)
-
-### Previous Build
-- [Nameless-AOSP_Pong-14.0-20240526-1327-Official](https://sourceforge.net/projects/nameless-aosp/files/Pong/Nameless-AOSP_Pong-14.0-20240526-1327-Official.zip/download)
 
 ### Images
 - [boot.img](https://sourceforge.net/projects/nameless-aosp/files/Pong/images/26-05-2024/boot.img/download) ([Mirror](https://drive.google.com/file/d/1YeOhI5DGLFJWCLy2UVEDirRln7hHb8sb/view?usp=drive_link))
