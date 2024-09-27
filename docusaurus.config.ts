@@ -48,9 +48,10 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    // announcementBar: {
-    //   content: 'The search functionality is now fixed. Everything should be working as expected. If you encounter any issues, please report them on the Telegram group. Thank you! 🎉',
-    // },
+    announcementBar: {
+      content: '✨ Please be aware that Android 14 development for all devices has ended. No more updates would be provided till the Android 15 release. <a target="_blank" rel="noopener noreferrer" href="https://t.me/nameless_ophub/599814">Know More</a> ✨',
+      isCloseable: false,
+    },
     footer: {
       copyright: 'Created with ❤️ by Lucy Kushinada and the Nameless Team',
     },
