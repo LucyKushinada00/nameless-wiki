@@ -49,7 +49,7 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     announcementBar: {
-      content: '✨ Please be aware that Android 14 development for all devices has ended. No more updates would be provided till the Android 15 release. <a target="_blank" rel="noopener noreferrer" href="https://t.me/nameless_ophub/599814">Know More</a> ✨',
+      content: '✨ Nameless is now based on CLO starting from Android 15. New builds for supported devices are coming soon. Stay tuned. <a target="_blank" rel="noopener noreferrer" href="https://t.me/nameless_ophub/599814">Know More</a> ✨',
       isCloseable: false,
     },
     footer: {
