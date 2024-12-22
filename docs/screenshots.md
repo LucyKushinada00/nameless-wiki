@@ -6,7 +6,7 @@ sidebar_position: 4
 import Screenshot from '../src/components/Screenshot';
 import Screenshots from '../src/components/Screenshots';
 
-Here are some screenshots for a taste of Nameless AOSP without having to install it yourself.
+Here are some screenshots for a taste of Nameless CLO without having to install it yourself.
 
 ## System
 

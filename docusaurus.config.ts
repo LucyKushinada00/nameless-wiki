@@ -4,8 +4,8 @@ import 'dotenv/config';
 import { themes as prismThemes } from 'prism-react-renderer';
 
 const config: Config = {
-  title: 'Nameless AOSP',
-  tagline: 'Nameless AOSP is based on Android Open Source Project, inspired by Google Pixel.',
+  title: 'Nameless CLO',
+  tagline: 'Nameless CLO is based on CodeLinaro and inspired by Qualcomm. We offer a smooth, stable, and high-performance experience for your Snapdragon device.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,7 +66,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Nameless AOSP',
+      title: 'Nameless CLO',
       items: [
         { to: '/screenshots', label: 'Screenshots', position: 'left' },
         { to: '/faq', label: 'FAQ', position: 'left' },
