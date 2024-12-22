@@ -3,7 +3,7 @@ title: Supported Devices
 sidebar_position: 0
 ---
 
-Nameless AOSP officially supports the following devices:
+Nameless CLO officially supports the following devices:
 
 ## OnePlus Devices
 - OnePlus 8 (instantnoodle)

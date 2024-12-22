@@ -281,7 +281,7 @@ Download the OOS factory images: [OnePlus 8](https://forum.xda-developers.com/t/
   - **Use cmd, NOT powershell**.
   - Make sure [Platform Tools](#links) is the latest version (Do not use Minimal ADB and Fastboot.).
   - Make sure that the files you are going to flash are in the same folder with platform-tools.
-  - If there are any spaces in your path to the file you're trying to flash then encapsulate them with double-inverted commas (For ex. `adb sideload "C:/Nameless AOSP/nameless.zip"`) and drag and drop the file between the inverted commas instead of manually typing in the path to avoid mistakes.
+  - If there are any spaces in your path to the file you're trying to flash then encapsulate them with double-inverted commas (For ex. `adb sideload "C:/Nameless CLO/nameless.zip"`) and drag and drop the file between the inverted commas instead of manually typing in the path to avoid mistakes.
   </div>
 </details>
 
