@@ -12,18 +12,13 @@ This is the initial build for Nameless 15 and a clean flash would be required. N
 :::
 
 - [Nameless-CLO-15.0-20241222-Pong-Official __(SourceForge)__ ](https://sourceforge.net/projects/nameless-clo/files/Pong/Nameless-CLO-15.0-20241222-Pong-Official.zip/download)
-
 - [Nameless-CLO-15.0-20241222-Pong-Official __(Mirror)__](https://gofile.io/d/i4XY04)
 
 
 ### Images
-
 - [super_empty.img](https://sourceforge.net/projects/nameless-clo/files/Pong/Image/22-12-2024/super_empty.img/download)
-
 - [recovery.img](https://sourceforge.net/projects/nameless-clo/files/Pong/Image/22-12-2024/recovery.img/download)
-
 - [vendor_boot.img](https://sourceforge.net/projects/nameless-clo/files/Pong/Image/22-12-2024/vendor_boot.img/download)
-
 - [boot.img](https://sourceforge.net/projects/nameless-clo/files/Pong/Image/22-12-2024/boot.img/download)
 
 ## Nameless 14 (Legacy)
