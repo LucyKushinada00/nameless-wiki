@@ -15,6 +15,7 @@ Nameless CLO officially supports the following devices:
 - OnePlus 9RT (martini)
 - OnePlus 10 Pro (wly)
 - OnePlus 11 (salami)
+- OnePlus 12 (waffle)
 
 ## Realme Devices
 - Realme GT (cupidr)
