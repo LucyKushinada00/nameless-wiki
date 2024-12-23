@@ -7,7 +7,7 @@ sidebar_position: 10
 
 ### Latest Build
 - [Nameless-CLO-15.0-20241223-waffle-Official __(SourceForge)__](https://sourceforge.net/projects/nameless-clo/files/waffle/Nameless-CLO-15.0-20241223-waffle-Official.zip/download)
-<!-- - [Nameless-CLO-15.0-20241223-waffle-Official __(Mirror)__](https://gofile.io/d/i4XY04) -->
+- [Nameless-CLO-15.0-20241223-waffle-Official __(Mirror)__](https://gofile.io/d/r9uDoK)
 
 ### Images
 - [super_empty.img](https://sourceforge.net/projects/nameless-clo/files/waffle/Images/23-12-24/super_empty.img/download)
@@ -15,3 +15,7 @@ sidebar_position: 10
 - [init_boot.img](https://sourceforge.net/projects/nameless-clo/files/waffle/Images/23-12-24/init_boot.img/download)
 - [vendor_boot.img](https://sourceforge.net/projects/nameless-clo/files/waffle/Images/23-12-24/vendor_boot.img/download)
 - [boot.img](https://sourceforge.net/projects/nameless-clo/files/waffle/Images/23-12-24/boot.img/download)
+
+:::info
+Here's the mirror for the images: [https://gofile.io/d/YNFcEG](https://gofile.io/d/YNFcEG)
+:::
