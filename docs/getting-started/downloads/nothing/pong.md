@@ -8,7 +8,7 @@ title: Nothing Phone (2)
 This is the initial build for Nameless 15 and a clean flash would be required. No OTA is possible from previous builds.
 :::
 
-- [Nameless-CLO-15.0-20241222-Pong-Official  ](https://sourceforge.net/projects/nameless-clo/files/Pong/Nameless-CLO-15.0-20241222-Pong-Official.zip/download)
+- [Nameless-CLO-15.0-20241222-Pong-Official](https://sourceforge.net/projects/nameless-clo/files/Pong/Nameless-CLO-15.0-20241222-Pong-Official.zip/download)
 - [Nameless-CLO-15.0-20241222-Pong-Official __(Mirror)__](https://gofile.io/d/i4XY04)
 
 ### Images
