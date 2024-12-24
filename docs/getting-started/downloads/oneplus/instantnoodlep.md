@@ -8,6 +8,8 @@ title: OnePlus 8 Pro
 This is the initial build for Nameless 15 and a clean flash would be required. No OTA is possible from previous builds.
 :::
 
+### Latest Build
+
 - [Nameless-CLO-15.0-20241223-instantnoodlep-Official](https://sourceforge.net/projects/nameless-clo/files/instantnoodlep/Nameless-CLO-15.0-20241223-instantnoodlep-Official.zip/download)
 
 ### Images
