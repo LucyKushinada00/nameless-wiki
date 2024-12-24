@@ -2,7 +2,25 @@
 title: OnePlus 8T
 ---
 
-## Nameless 14
+## Nameless 15
+
+:::info
+These builds are based on Oxygen OS 14. This is the initial build for Nameless 15 and a clean flash would be required. No OTA is possible from previous builds.
+:::
+
+### Latest Build
+- [Nameless-CLO-15.0-20241223-kebab-Official](https://sourceforge.net/projects/nameless-clo/files/kebab/Nameless-CLO-15.0-20241223-kebab-Official.zip/download)
+- [Nameless-CLO-15.0-20241223-kebab-Official __(Mirror)__](https://pixeldrain.com/u/Dgc6e5tN)
+
+### Images
+- [vbmeta.img](https://sourceforge.net/projects/nameless-clo/files/kebab/imgs_15/vbmeta.img/download)
+- [recovery.img](https://sourceforge.net/projects/nameless-clo/files/kebab/imgs_15/recovery.img/download)
+
+## Nameless 14 (Legacy)
+
+:::warning
+These are the legacy builds for the device and support won't be provided for the same. Flash at your own risk!
+:::
 
 :::info
 These builds are based on Oxygen OS 14.
