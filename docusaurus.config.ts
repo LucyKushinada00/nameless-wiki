@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Nameless CLO',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Nameless CLO is based on CodeLinaro and inspired by Qualcomm. We offer a smooth, stable, and high-performance experience for your Snapdragon device.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,12 +66,12 @@ const config: Config = {
     footer: {
       copyright: 'Created with ❤️ by Lucy Kushinada and the Nameless Team',
     },
-    algolia: {
-      appId: process.env.ALGOLIA_APP_ID,
-      apiKey: process.env.ALGOLIA_API_KEY,
-      indexName: 'nameless-wiki',
-      contextualSearch: false,
-    },
+    // algolia: {
+    //   appId: process.env.ALGOLIA_APP_ID,
+    //   apiKey: process.env.ALGOLIA_API_KEY,
+    //   indexName: 'nameless-wiki',
+    //   contextualSearch: false,
+    // },
     colorMode: {
       respectPrefersColorScheme: true,
     },

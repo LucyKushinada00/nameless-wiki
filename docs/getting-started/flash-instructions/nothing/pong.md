@@ -9,9 +9,9 @@ The firmware for this device is included with the ROM.
 :::
 - Latest [Platform Tools](/docs/faq.md/#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md/#enabling-developer-options))
-- Required Images: `boot.img`, `recovery.img`, `vendor_boot.img`. ([Download Here](/docs/getting-started/downloads/oneplus/pong.md))
+- Required Images: `boot.img`, `recovery.img`, `vendor_boot.img`. ([Download Here](/docs/getting-started/downloads/nothing/pong.md))
 - Unlocked bootloader ([Instructions](/docs/faq.md/#how-to-unlock-bootloader))
-- Nameless ROM Image ([Download Here](/docs/getting-started/downloads/oneplus/pong.md))
+- Nameless ROM Image ([Download Here](/docs/getting-started/downloads/nothing/pong.md))
 
 ## Instructions when coming from Stock
 
