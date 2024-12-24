@@ -11,9 +11,9 @@ This device is marked as End of Life and would no longer recieve updates.
 :::info
 The firmware for this device is included with the ROM.
 :::
-- Latest [Platform Tools](/docs/faq.md/#links)
-- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md/#enabling-developer-options))
-- Unlocked bootloader ([Instructions](/docs/faq.md/#how-to-unlock-bootloader))
+- Latest [Platform Tools](/docs/faq.md#links)
+- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
+- Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - LineageOS Recovery ([Download here](https://github.com/pjgowtham/android_device_realme_cupidr/releases/download/lineage-21.0-20240101-UNOFFICIAL-cupidr/recovery-lineage-21.0-20231205-UNOFFICIAL-cupidr.zip))
 - Nameless ROM Image ([Download Here](/docs/getting-started/downloads/legacy/cupidr.md))
 

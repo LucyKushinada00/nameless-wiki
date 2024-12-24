@@ -11,9 +11,9 @@ This device is marked as End of Life and would no longer recieve updates.
 :::info
 The firmware for this device is included with the ROM.
 :::
-- Latest [Platform Tools](/docs/faq.md/#links)
-- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md/#enabling-developer-options))
-- Unlocked bootloader ([Instructions](/docs/faq.md/#how-to-unlock-bootloader))
+- Latest [Platform Tools](/docs/faq.md#links)
+- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
+- Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - LineageOS Recovery ([Download here](https://github.com/pjgowtham/android_device_realme_porsche/releases/download/lineage-21.0-20240107-UNOFFICIAL-porsche/recovery-lineage-21.0-20240107-UNOFFICIAL-porsche.zip))
 - Nameless ROM Image ([Download Here](/docs/getting-started/downloads/legacy/porsche.md))
 

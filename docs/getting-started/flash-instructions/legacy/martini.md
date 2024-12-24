@@ -11,9 +11,9 @@ This device is marked as End of Life and would no longer recieve updates.
 :::info
 The firmware for this device is included with the ROM.
 :::
-- Latest [Platform Tools](/docs/faq.md/#links)
-- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md/#enabling-developer-options))
-- Unlocked bootloader ([Instructions](/docs/faq.md/#how-to-unlock-bootloader))
+- Latest [Platform Tools](/docs/faq.md#links)
+- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
+- Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - LOS boot image ([Download here](https://drive.google.com/file/d/18oL6m35RnyXaZKjh34muO_P3_xkK0BtB/view?usp=sharing))
 - Optional Images: `dtbo.img`, `vendor_boot.img`. ([Download Here](/docs/getting-started/downloads/oneplus/instantnoodle.md))
 - Nameless ROM Image ([Download Here](/docs/getting-started/downloads/legacy/martini.md))

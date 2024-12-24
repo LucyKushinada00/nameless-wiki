@@ -11,9 +11,9 @@ This device is marked as End of Life and would no longer recieve updates.
 :::danger
 This device needs OOS14 firmware for Nameless 14 builds, OOS13.1 for legacy builds
 :::
-- Latest [Platform Tools](/docs/faq.md/#links)
-- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md/#enabling-developer-options))
-- Unlocked bootloader ([Instructions](/docs/faq.md/#how-to-unlock-bootloader))
+- Latest [Platform Tools](/docs/faq.md#links)
+- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
+- Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - Orangefox Recovery ([Download here](https://sourceforge.net/projects/oneplus-10-pro/files/orange/2024-2-21/OrangeFox-Unofficial-ferrarri.img/download))
 - Nameless ROM Image ([Download Here](/docs/getting-started/downloads/legacy/wly.md))
 

@@ -7,10 +7,10 @@ title: OnePlus 8T
 :::danger
 This device needs OOS14 firmware for Nameless 14 builds, OOS13.1 for legacy builds
 :::
-- Latest [Platform Tools](/docs/faq.md/#links)
-- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md/#enabling-developer-options))
+- Latest [Platform Tools](/docs/faq.md#links)
+- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
 - Required Images: `boot.img`, `recovery.img`, `vbmeta.img`. ([Download Here](/docs/getting-started/downloads/oneplus/kebab.md))
-- Unlocked bootloader ([Instructions](/docs/faq.md/#how-to-unlock-bootloader))
+- Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - Nameless ROM Image ([Download Here](/docs/getting-started/downloads/oneplus/kebab.md))
 
 ### Instructions when coming from Stock

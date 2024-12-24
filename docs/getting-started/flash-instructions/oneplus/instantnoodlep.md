@@ -7,10 +7,10 @@ title: OnePlus 8 Pro
 :::info
 The firmware for this device is included in the ROM.
 :::
-- Latest [Platform Tools](/docs/faq.md/#links)
-- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md/#enabling-developer-options))
+- Latest [Platform Tools](/docs/faq.md#links)
+- Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
 - Required Images: `boot.img`, `recovery.img`, `vbmeta.img`. ([Download Here](/docs/getting-started/downloads/oneplus/instantnoodlep.md))
-- Unlocked bootloader ([Instructions](/docs/faq.md/#how-to-unlock-bootloader))
+- Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - Nameless ROM Image ([Download Here](/docs/getting-started/downloads/oneplus/instantnoodlep.md))
 
 ## Instructions when coming from Stock
