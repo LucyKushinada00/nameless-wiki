@@ -20,7 +20,7 @@ This device needs OOS14 firmware for Nameless 14 builds, OOS13.1 for legacy buil
 ## Instructions when coming from Stock/Custom ROM
 
 :::warning
-Make sure you're on the latest compatible firmware on both slots, otherwise [flash the firmware](/docs/faq.md/#ab-partitions-explained) before continuing.
+Make sure you're on the latest compatible firmware on both slots, otherwise [flash the firmware](/docs/faq.md#ab-partitions-explained) before continuing.
 :::
 1. Open CMD and `cd` into the directory with the files. **(DO NOT USE POWERSHELL!)**
 2. Reboot your device into fastboot with `adb reboot fastboot`.
