@@ -5,7 +5,7 @@ title: OnePlus 8 Pro
 ## Nameless 15
 
 :::info
-This is the initial build for Nameless 15 and a clean flash would be required. No OTA is possible from previous builds.
+These builds are based on Oxygen OS 13.1. This is the initial build for Nameless 15 and a clean flash would be required. No OTA is possible from previous builds.
 :::
 
 ### Latest Build
