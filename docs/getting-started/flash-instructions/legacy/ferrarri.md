@@ -1,5 +1,5 @@
 ---
-title: Realme GT2
+title: Realme GT2 Pro
 ---
 
 ## Prerequisites
