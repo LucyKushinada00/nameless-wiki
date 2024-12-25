@@ -135,7 +135,12 @@ const sidebars: SidebarsConfig = {
                 slug: 'getting-started/flash-instructions/legacy',
               },
               items: [
+                'getting-started/flash-instructions/legacy/martini',
+                'getting-started/flash-instructions/legacy/wly',
                 'getting-started/flash-instructions/legacy/cupidr',
+                'getting-started/flash-instructions/legacy/porsche',
+                'getting-started/flash-instructions/legacy/ferrarri',
+                'getting-started/flash-instructions/legacy/lunaa',
               ],
             },
           ],
