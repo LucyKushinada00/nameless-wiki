@@ -32,7 +32,7 @@ fastboot flash recovery recovery.img
 If your device isn't detected when in fastboot download the [Google OEM Drivers](/docs/faq.md#links) and follow the instructions [here](/docs/faq.md#installing-google-usb-drivers).
 :::
 4. Once the flash is complete, go back to the main recovery menu and click "Factory Reset" -> "Format Data".
-5. Reboot to fastbood and wipe the super partition using `fastboot wipe-super super_empty.img`.
+5. Reboot to fastbootd and wipe the super partition using `fastboot wipe-super super_empty.img`.
 6. Reboot your device into recovery mode, click "Install Update" -> "ADB Sideload".
 7. Sideload nameless using `adb sideload <filename>.zip`.
 :::info

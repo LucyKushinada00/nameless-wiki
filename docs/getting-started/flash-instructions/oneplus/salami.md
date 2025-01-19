@@ -9,7 +9,10 @@ The firmware for this device is included in the ROM.
 :::
 - Latest [Platform Tools](/docs/faq.md#links)
 - Developer settings and USB debugging enabled ([Instructions](/docs/faq.md#enabling-developer-options))
-- Required Images: `boot.img`, `dtbo.img`, `vendor_boot.img`. ([Download Here](/docs/getting-started/downloads/oneplus/salami.md))
+- Required Images: `super_empty.img`, `recovery.img`, `vendor_boot.img`, `init_boot.img`, `boot.img`. ([Download Here](/docs/getting-started/downloads/oneplus/salami.md))
+:::info
+For legacy builds the required Images: `boot.img`, `dtbo.img`, `vendor_boot.img`. ([Download Here](/docs/getting-started/downloads/oneplus/salami.md))
+:::
 - Unlocked bootloader ([Instructions](/docs/faq.md#how-to-unlock-bootloader))
 - Nameless ROM Image ([Download Here](/docs/getting-started/downloads/oneplus/salami.md))
 
@@ -22,12 +25,15 @@ You can also boot into fastboot using the [button combination](/docs/faq.md#butt
 :::
 3. Verify your device is detected by using `fastboot devices` and flash the downloaded images using:
 ```
-fastboot flash boot boot.img
-fastboot flash dtbo dtbo.img
+fastboot flash recovery recovery.img
 fastboot flash vendor_boot vendor_boot.img
+fastboot flash init_boot init_boot.img
+fastboot flash boot boot.img
+fastboot wipe-super super_empty.img
 ```
 :::info
-If your device isn't detected when in fastboot download the [Google OEM Drivers](/docs/faq.md#links) and follow the instructions [here](/docs/faq.md#installing-google-usb-drivers).
+    1. If your device isn't detected when in fastboot download the [Google OEM Drivers](/docs/faq.md#links) and follow the instructions [here](/docs/faq.md#installing-google-usb-drivers).
+    2. For legacy builds flash `boot.img`, `dtbo.img`, `vendor_boot.img` instead.
 :::
 4. Reboot your device into recovery mode, click "Install Update" -> "ADB Sideload".
 5. Sideload nameless using `adb sideload <filename>.zip`.
