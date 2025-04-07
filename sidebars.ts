@@ -1,6 +1,7 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
+import { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 
 /**
  * Creating a sidebar enables you to:
@@ -51,6 +52,7 @@ const sidebars: SidebarsConfig = {
                 'getting-started/downloads/oneplus/lemonades',
                 'getting-started/downloads/oneplus/salami',
                 'getting-started/downloads/oneplus/waffle',
+                'getting-started/downloads/oneplus/aston'
               ],
             },
             {
@@ -111,6 +113,7 @@ const sidebars: SidebarsConfig = {
                 'getting-started/flash-instructions/oneplus/lemonades',
                 'getting-started/flash-instructions/oneplus/salami',
                 'getting-started/flash-instructions/oneplus/waffle',
+                'getting-started/flash-instructions/oneplus/aston',
               ],
             },
             {

@@ -16,6 +16,10 @@ Donate: [Paypal](https://www.paypal.me/ChanduDyavanapelli) | UPI: `dyavanapellic
 Maintainer for Reame GT, Realme GT 2, Realme GT 2 Pro, Realme GT Master, OnePlus 9RT & OnePlus 10 Pro<br />
 Donate: [Paypal](https://www.paypal.me/pjgowtham) | UPI: `pjgowtham@oksbi`
 
+4. **InFeRnO** - Lead Developer & Maintainer <br/>
+Maintainer for OnePlus 12R<br />
+Donate: [Paypal](https://www.paypal.com/paypalme/aditya0230)
+
 ## Admins
 
 1. Ryano
