@@ -32,7 +32,8 @@ If your device isn't detected when in fastboot download the [Google OEM Drivers]
 4. Reboot your device into recovery mode, click "Install Update" -> "ADB Sideload".
 5. Sideload nameless using `adb sideload <filename>.zip`.
 :::info
-Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
+    1. Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
+    2. If you get the error `Error Applying update: 7 (ErrorCode: kInstallDeviceOpenError)` while flashing the ROM, flash the [super-empty.img](/docs/getting-started/downloads/oneplus/lemonade.md#nameless-15) from fastboot mode using `fastboot wipe-super super_empty.img` before sideloading the ROM again.
 :::
 6. Once the flash is complete, go back to the main recovery menu and click "Factory Reset" -> "Format Data".
 7. Reboot to system.
@@ -43,7 +44,8 @@ Once you see a back arrow at the top left corner of your recovery the sideload i
 2. Boot into recovery with `adb reboot recovery`.
 3. Sideload nameless using `adb sideload <filename>.zip`.
 :::info
-Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
+    1. Once you see a back arrow at the top left corner of your recovery the sideload is completed. Progress on your pc will stop at around 47%. This is normal behaviour.
+    2. If you get the error `Error Applying update: 7 (ErrorCode: kInstallDeviceOpenError)` while flashing the ROM, flash the [super-empty.img](/docs/getting-started/downloads/oneplus/lemonade.md#nameless-15) from fastboot mode using `fastboot wipe-super super_empty.img` before sideloading the ROM again.
 :::
 4. Click back arrow, then click "Factory reset" -> "Format data/factory reset" -> "Format data"
 5. After the format is completed, click the back arrow and then click "Reboot to system".
