@@ -16,6 +16,7 @@ If you have a question, please read or search this page before asking. It saves 
   - [Qualcomm Drivers](https://drive.google.com/file/d/1zKPFtcc2X_Nf70mcvn9TBu60bHl6Q3cP)
   - [APK to enable local update option in OOS12+](https://oxygenos.oneplus.net/OPLocalUpdate_For_Android12.apk)
   - [MSM tool](https://onepluscommunityserver.com/list/Unbrick_Tools/)
+  - [Payload Dumper / Fastboot Enhance](https://github.com/libxzr/FastbootEnhance/releases)
   </div>
 </details>
 
@@ -230,6 +231,18 @@ Download the OOS factory images: [OnePlus 8](https://forum.xda-developers.com/t/
   8. Click on **Have Disk**, select the location where you've extracted the driver zip and click **OK**.
   9. Depending on your situation either install the **Android ADB Interface** (For System drivers), **Android Bootloader Interface** (For Fastboot/Bootloader Drivers).
   10. Click on **Next** on both the window and the pop-up and let the drivers install.
+  </div>
+</details>
+
+## Dumping Partitions from the ROM Zip
+
+<details>
+  <summary>Dumping Partitions from the ROM Zip</summary>
+  <div>
+  1. Download the latest version of [Payload Dumper](#links) and extract it.
+  2. Extract the ROM zip file using 7zip or any other extraction tool.
+  3. Execute `FastbootEnhance.exe` from the extracted folder.
+  4. Switch the mode to `Payload Dumper` then click on `Browse` and select the `payload.bin` file from the extracted ROM folder.
   </div>
 </details>
 
