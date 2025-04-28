@@ -13,6 +13,7 @@ Nameless CLO officially supports the following devices:
 - OnePlus 9R (lemonades)
 - OnePlus 11 (salami)
 - OnePlus 12 (waffle)
+- OnePlus 12R (aston)
 - OnePlus 13 (dodge)
 
 ## Nothing Devices
