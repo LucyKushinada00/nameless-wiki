@@ -9,7 +9,7 @@ This is a community-requested build, and as such, we cannot guarantee future upd
 :::
 
 ### Latest Build
-- [Nameless-CLO-15.0-20250305-waffle-Official](https://sourceforge.net/projects/nameless-clo/files/waffle/Nameless-CLO-15.0-20250305-waffle-Official.zip/download)
+- [Nameless-CLO-15.0-20250310-salami-Official](https://sourceforge.net/projects/nameless-clo/files/salami/Nameless-CLO-15.0-20250310-salami-Official.zip/download)
 
 ### Previous Build
 - [Nameless-CLO-15.0-20250106-salami-Official](https://sourceforge.net/projects/nameless-clo/files/salami/Nameless-CLO-15.0-20250106-salami-Official.zip/download)
